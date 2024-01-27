@@ -31,7 +31,7 @@ echo " " >> $file.sh
 
 echo "#Date Created: " `date` >> $file.sh
 echo "#Purpose: $purpose" >> $file.sh
-echo "#Author: HORLA The Unknown" >> $file.sh
+echo "#Author: Horlalaycon" >> $file.sh
 
 echo -e "\e[0;33mCreating Script\e[0m\e[5;33m...\e[0m"
 sleep 3
